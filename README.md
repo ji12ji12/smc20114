@@ -1,9 +1,5 @@
 # smc20114
 
-
-
-
-
 <H1>HELLO WORLD!!</H1>
 👍나의 이름은 이지성입니다 <br>
 🎉나는 18살입니다 <br>
@@ -14,5 +10,5 @@
 ![html](https://img.shields.io/github/last-commit/beygee/survive)<br>
 ![](https://img.shields.io/badge/style-flat-red?style=flat)<br>
 ![](https://img.shields.io/badge/logo-test-blue?logo=facebook)<br>
-![](https://img.shields.io/badge/javascript-blue)<BR>
- ![HTML5](https://img.shields.io/badge/HTML5-CSS3-blue)
+![](https://img.shields.io/badge/javascript-blue)<br>
+![HTML5](https://img.shields.io/badge/HTML5-CSS3-blue)
