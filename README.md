@@ -8,3 +8,4 @@
 🥡나의 생일은 10월 28일입니다 <br>
 🥨저는 농구를 좋아합니다<br>
 ![](https://img.shields.io/github/last-commit/beygee/survive)<br>
+![HTML5](https://img.shields.io/badge/HTML5-CSS3-blue)
