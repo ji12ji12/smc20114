@@ -10,5 +10,4 @@
 ![](https://img.shields.io/github/last-commit/beygee/survive)<br>
 ![](https://img.shields.io/badge/style-flat-red?style=flat)<br>
 ![](https://img.shields.io/badge/logo-test-blue?logo=facebook)<br>
-![](https://img.shields.io/badge/javascript-blue)<br>
 ![HTML5](https://img.shields.io/badge/HTML5-CSS3-blue)
